@@ -1,2 +1,2 @@
-# Predicting-Dynamics-by-PCA-Codes
-Aim of the project is to predict the dynamics of protein A from known dynamics of protein B, whose structure is similar to protein A, applying Principal Component Analysis and Molecular Dynamics simulations.
+# Strategic ways of Coarse Graining Protein Molecules to studythe dynamics using PCA and MD simulations
+Aim is to set up a system to evaluate how good coarse graining would be - in the context of capturing the dynamics - especially the low frequency modes.
